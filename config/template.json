@@ -1,0 +1,57 @@
+{
+  "configs": [
+    {
+      "server": "#",
+      "server_port": #,
+      "password": "#",
+      "method": "#",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "#",
+      "server_port": #,
+      "password": "#",
+      "method": "#",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "#",
+      "server_port": #,
+      "password": "#",
+      "method": "#",
+      "remarks": "",
+      "auth": false
+    }
+  ],
+  "strategy": "com.shadowsocks.strategy.ha",
+  "index": -1,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 8580,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.25,
+    "bgColor": "Black",
+    "textColor": "White",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "width": 600,
+    "height": 400,
+    "top": 640,
+    "left": 1320,
+    "maximized": true
+  },
+  "useProxy": false,
+  "proxyServer": null,
+  "proxyPort": 0
+}

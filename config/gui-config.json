@@ -1,0 +1,57 @@
+{
+  "configs": [
+    {
+      "server": "us1.iss.tf",
+      "server_port": 443,
+      "password": " ",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "us2.iss.tf",
+      "server_port": 8989,
+      "password": "87453869",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "jp3.iss.tf",
+      "server_port": 443,
+      "password": "38290672",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false
+    }
+  ],
+  "strategy": null,
+  "index": 1,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 8580,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.25,
+    "bgColor": "Black",
+    "textColor": "White",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "width": 600,
+    "height": 400,
+    "top": 640,
+    "left": 1320,
+    "maximized": true
+  },
+  "useProxy": false,
+  "proxyServer": null,
+  "proxyPort": 0
+}
